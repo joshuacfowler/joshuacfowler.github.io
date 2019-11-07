@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Featured Image"
-date:   2014-12-14
+title:  "Research Proj. 2"
+date:   2019-11-06
 image: touring.jpg
 ---
 
