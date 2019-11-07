@@ -12,8 +12,6 @@ title: Contact
    <p> <a href="mailto:jcf3@rice.edu"> jcf3@rice.edu</a></p>
    <p> <a href="http://www.owlnet.rice.edu/~tm9/">Miller Lab @ Rice University</a></p>
 
-    <p>The form is provided by <a href="https://formspree.io/mqkkkaye">Formspree.</a> Follow the directions on their site to set up the form for use.</p>
-
   </div>
   <form action="https://formspree.io/mqkkkaye" method="POST">
     <label for="name">Name</label>
