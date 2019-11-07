@@ -5,9 +5,10 @@ title: Publications
 
 <div class="post">
 	<h1 class="pageTitle">Publications</h1>
-	<img src="{{ '/assets/img/touring.jpg' | prepend: site.baseurl }}" alt="">
-	<p class="intro">Long Haul is a minimal, long form <a href="http://jekyllrb.com">Jekyll</a> Theme. It can be used as is or customized to your hearts desire.</p>
-	<p>Long Haul was created in honor of all the hard working touring bicycles that have traversed the globe time and time again. Take it for a spin.</p>
+	<p class="intro">2018</p>
+	<p> <a href="https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.15094">Evans, M. E., Gugger, P. F., Lynch, A. M., Guiterman, C. H., **Fowler, J. C.**, Klesse, S., & Riordan, E. C. (2018). Dendroecology meets genomics in the common garden: new insights into climate adaptation. New Phytologist, 218(2), 401-403.</a></p>
+	
+
 	<h2>Features</h2>
 	<ul>
 		<li>Built with SASS + GULP + BROWSERSYNC + AUTOPREFIXER</li>
