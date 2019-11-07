@@ -4,7 +4,7 @@ title: Research
 ---
 
 <div id="articles">
-  <h1>Articles</h1>
+  <h1>Research</h1>
   <ul class="posts noList">
     {% for post in site.posts %}
       <li>
