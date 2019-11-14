@@ -1043,7 +1043,7 @@ GLOBAL STYLES
 HOMEPAGE STYLING
 ***************/
   #home .posts, #home .pageTitle, #home .pagination {
-    width: 80%;
+    width: 75%;
     float: none;
     margin: 0 auto 1.5em; }
   #home .pageTitle {
