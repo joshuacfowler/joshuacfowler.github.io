@@ -1043,11 +1043,16 @@ GLOBAL STYLES
 HOMEPAGE STYLING
 ***************/
   #home .posts, #home .pageTitle, #home .pagination {
-    width: 75%;
+    width: 80%;
     float: none;
     margin: 0 auto 1.5em; }
   #home .pageTitle {
     margin: 2rem auto 1em; }
+  #home .container {
+    position: relative; }
+   #home .bottom{
+    position: absolute;
+    bottom: 0 auto 1em; }
   /***************
 HEADER STYLING
 ***************/
