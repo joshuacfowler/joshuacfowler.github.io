@@ -7,10 +7,10 @@ title: Contact
   <h1 class="pageTitle">Contact Me</h1>
   <div class="contactContent">
     
-   <p class="intro"> Office: George R. Brown Hall E101 </p>
-   <p> BioSciences | Rice University | Houston, Texas </p>
-   <p> <a href="mailto:jcf3@rice.edu"> jcf3@rice.edu</a></p>
-   <p> <a href="http://www.owlnet.rice.edu/~tm9/">Miller Lab @ Rice University</a></p>
+   <p class="intro">Office: George R. Brown Hall E101 </p>
+   <p class="intro"><a href="mailto:jcf3@rice.edu">jcf3@rice.edu</a></p>
+   <p><a href="http://www.owlnet.rice.edu/~tm9/">Miller Lab</a>| BioSciences</p>
+   <p>Rice University | Houston, Texas</p>
 
   </div>
   <form action="https://formspree.io/mqkkkaye" method="POST">
