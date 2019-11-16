@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Research Proj. 3"
+title:  "Using Herbarium Specimens to Explore Environmental Drivers of Plant-Fungal Symbiosis"
 date:   2019-11-06
 ---
 
