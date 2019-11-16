@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Research Proj. 1"
+title:  "Fungal Symbionts Buffer Stochastic Population Dynamics"
 date:   2019-11-06
-description: This is a post description for meta purposes. This is also the excerpt of the article that shows up on the index/home page. Change this in the post YAML.
+description:
 ---
 
-<p class="intro"><span class="dropcap">C</span>urabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Vestibulum id ligula porta felis euismod semper. Donec sed odio dui. Aenean lacinia bibendum nulla sed consectetur.</p>
+<p class="intro"><span class="dropcap">C</span>Symbiotic Mutualisms are commonly context dependent, where they provide benefits under some conditions but not others. This provides a challenge to predicting interactions outcomes and they mutualims can seem like poor partners. In variable environments, this context dependence lead symbionts to buffer their hosts from environmental variability, which is often considered to be harmful to long term population growth, by reducing the extremely bad years and the extremely good years.</p>
 
 # Heading 1
 
