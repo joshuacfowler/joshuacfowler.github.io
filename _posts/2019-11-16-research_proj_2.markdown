@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Research Proj. 2"
+title:  "Contributions of Mutualisms to Setting Species' Range Limits"
 date:   2019-11-06
-image: touring.jpg
+image: seedlings.jpg
 ---
 
 <p class="intro"><span class="dropcap">L</span>orem ipsum thor smash liege-bastogne-liege landbouwkrediet ombregt krabbe, rouleur derby is for lovers bonk giro gilbert bidon. Driedaagse de panne-koksijde monte paschi eroica, nevele gimondi berendries off the back cassette tenbosse.</p>
