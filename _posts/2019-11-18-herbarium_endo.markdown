@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Using Herbarium Specimens to Explore Environmental Drivers of Plant-Fungal Symbiosis"
+date:   2019-11-06
+---
+
+<p class="intro"><span class="dropcap">F</span>ungal endophytes are commonly thought to confer benefits to environmental stress. The prevalence of the interaction is likely to correspond to environments where the mutualism provides the most benefit. Many field-based surveys of endophytes have found environmentally correlated patterns in endophyte prevalence, but often these surveys must be limited to a single year and a spatial extent that is reachable during a single growing season, while these grass hosts often have large distributions. Fungal symbionts are preserved within the tissues of preserved plants stored in herbaria, providing an opportunity to survey across broad geographic extents and to explore historic patterns of endophyte prevalence. If mutualists are expected to confer benefits to environmental stress, changing climates may be expected to alter the prevalence of the interaction across time to track changes in environmental conditions. I have collected seeds and stem tissue from herbaria and am working with an undergraduate research assistants to quantify infection prevalence across space. This project has the potential to address basic questions about what drives endophyte symbiosis at broad scales and will quantify the effects of global change on a mutualistic interaction.</p>
