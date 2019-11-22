@@ -5,37 +5,10 @@ date:   2019-11-06
 description:
 ---
 
-<p class="intro"><span class="dropcap">C</span>Symbiotic Mutualisms are commonly context dependent, where they provide benefits under some conditions but not others. This provides a challenge to predicting interactions outcomes and they mutualims can seem like poor partners. In variable environments, this context dependence lead symbionts to buffer their hosts from environmental variability, which is often considered to be harmful to long term population growth, by reducing the extremely bad years and the extremely good years.</p>
+<p class="intro"><span class="dropcap">M</span>utualisms can have context dependent effects on their hosts, conferring benefits during bad years and imposing costs during good years. This context dependence reduces the extremely good and the extremely bad years that the host experiences. Symbiotic mutualists might benefit their hosts by buffering demographic variability, even if their effects are neutral on average across years because environmental variability is generally bad for long term population growth. Fungal endophytes are widespread symbionts of grasses that have been shown to provide a variety of context dependent benefits under environmental stress such as drought or salinity tolerance.  Using data from a long term demographic field experiment and stochastic population modelling, we are quantifying the effects of symbionts on the mean and variance on host fitness. This work so far has included developing vital rate models and using them to build integral projection models which will allow us to assess the contribution of both the mean and variance components of host fitness. While increasing in mean temperature and precipitation are common predictions of climate change, increases in environmental variability are also expected. This is a broadly underappreciated fact and understanding the effects of variability is crucial to predicting changes in biotic communities.</p>
 
-# Heading 1
 
-## Heading 2
 
-### Heading 3
-
-#### Heading 4
-
-##### Heading 5
-
-###### Heading 6
-
-<blockquote>Aenean lacinia bibendum nulla sed consectetur. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum. Nulla vitae elit libero, a pharetra augue. Curabitur blandit tempus porttitor. Donec sed odio dui. Cras mattis consectetur purus sit amet fermentum.</blockquote>
-
-Nullam quis risus eget urna mollis ornare vel eu leo. Cras mattis consectetur purus sit amet fermentum. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.
-
-## Unordered List
-* List Item
-* Longer List Item
-  * Nested List Item
-  * Nested Item
-* List Item
-
-## Ordered List
-1. List Item
-2. Longer List Item
-    1. Nested OL Item
-    2. Another Nested Item
-3. List Item
 
 ## Definition List
 <dl>
@@ -44,13 +17,3 @@ Nullam quis risus eget urna mollis ornare vel eu leo. Cras mattis consectetur pu
   <dt>Milk</dt>
   <dd>White cold drink</dd>
 </dl>
-
-Donec id elit non mi porta gravida at eget metus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Maecenas faucibus mollis interdum. Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam.
-
-Cras justo odio, dapibus ac facilisis in, egestas eget quam. Curabitur blandit tempus porttitor. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec id elit non mi porta gravida at eget metus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.
-
-Maecenas faucibus mollis interdum. Maecenas faucibus mollis interdum. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Etiam porta sem malesuada magna mollis euismod. Vestibulum id ligula porta felis euismod semper. Cras mattis consectetur purus sit amet fermentum.
-
-Sed posuere consectetur est at lobortis. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.
-
-Curabitur blandit tempus porttitor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Maecenas faucibus mollis interdum. Nullam id dolor id nibh ultricies vehicula ut id elit.
