@@ -21,7 +21,7 @@ navigation:
   - title: Contact
     url: /contact
   - title: CV
-    url: /CV
+    url: /cv
 
 social:
   github: joshuacfowler
