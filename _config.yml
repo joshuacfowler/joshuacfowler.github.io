@@ -20,6 +20,8 @@ navigation:
     url: /publications
   - title: Contact
     url: /contact
+  - title: CV
+    url: /CV
 
 social:
   github: joshuacfowler
