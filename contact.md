@@ -5,7 +5,7 @@ title: Contact
 
 <div id="contact">
   <h1 class="pageTitle">Contact Me</h1>
-  <div class="contactContent">
+  <div class="post">
     
    <p class="intro">Office: George R. Brown Hall E101 </p>
    <p class="intro"><a href="mailto:jcf3@rice.edu">jcf3@rice.edu</a></p>
