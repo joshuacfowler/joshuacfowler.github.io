@@ -1158,7 +1158,7 @@ CONTACT PAGE STYLING
   .contactContent {
     max-width: 48%;
     margin-right: 2%;
-    float: left; }
+    float: center; }
   #contact form {
     max-width: 48%;
     width: 48%;
