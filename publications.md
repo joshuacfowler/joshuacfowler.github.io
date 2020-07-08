@@ -9,8 +9,7 @@ title: Publications
 	<h2>2020</h2>
 	<ul>
 	<li> <a href=""> Liu, J., Zhang, R., Xu, X., <b>Fowler, J. C.</b>, Miller, T. E., & Dong, T. (2020). Effect of summer warming on growth, photosynthesis and water status in female and male Populus cathayana: implications for sex-specific drought and heat tolerances. Tree Physiology. </a> </li>	
-	<ul>	
-  </div>		
+	<ul>			
   <div class="post">
 	<h2>2018</h2>
 	<ul>
