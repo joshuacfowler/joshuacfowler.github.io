@@ -28,6 +28,11 @@ Endophytes tend to have small effects on mean vitals and do reduce variance acro
   
 From these vital rate estimates, we build stochastic Integral Projection models to make population projections which allow us to assess the contributions of endophyte partnership on both the mean and variance components of host fitness.
 
+<figure>
+   <img src="{{ '/assets/img/byspp_stochplot.tiff' | prepend: site.baseurl }}" alt="Species specific contributions of endophytes to stochastic lambda through mean and through variance buffering"> 
+   <figcaption> Species specific contributions of endophytes to stochastic lambda through mean and through variance buffering </figcaption>
+</figure>
+
 
 While increasing mean temperature and precipitation are common predictions of climate change, increases in environmental variability are also expected. I'm particularly interested in extending this project by forecasting the consequences that expected increased variability in the future may have for variance buffering, as well as investigating the causes behind the differences that we observe between species. Certain host life histories may benefit more from variance buffering than others, and there may be tradeoffs between a strong mean endophyte effect and variance buffering.</p>
 
