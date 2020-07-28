@@ -36,7 +36,7 @@ From these vital rate estimates, we build stochastic Integral Projection models 
 
 While increasing mean temperature and precipitation are common predictions of climate change, increases in environmental variability are also expected. I'm particularly interested in extending this project by forecasting the consequences that expected increased variability in the future may have for variance buffering, as well as investigating the causes behind the differences that we observe between species. Certain host life histories may benefit more from variance buffering than others, and there may be tradeoffs between a strong mean endophyte effect and variance buffering.</p>
 
-Please see selected references for my poster at ESA 2020 below:
+Please see selected references relevant to this project and a poster presented at ESA 2020 below:
 
 1. Lewontin, R C, and D Cohen. “ON POPULATION GROWTH IN A RANDOMLY VARYING ENVIRONMENT,” 1969. https://www.pnas.org/content/pnas/62/4/1056.full.pdf.
 2. Boyce, Mark S., Chirakkal V. Haridas, Charlotte T. Lee, and the NCEAS Stochastic Demography Working Group. “Demography in an Increasingly Variable World.” Trends in Ecology & Evolution 21, no. 3 (March 2006): 141–148. https://doi.org/10.1016/J.TREE.2005.11.018.
