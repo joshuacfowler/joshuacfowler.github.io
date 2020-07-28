@@ -7,8 +7,8 @@ description:
 
 <p class="intro"><span class="dropcap">I</span>ncreased climatic variability is a critical expectation of climate change. Mutualisms often provide context-dependent benefits to hosts that are beneficial under abiotic stress while being neutral or even slightly costly in non-stressful conditions. This context-dependence has the potential to reduce the extremely good and the extremely bad years that the host experiences. Symbiotic mutualists may benefit their hosts by buffering demographic variability, even if their effects are neutral on average across years because environmental variability is generally bad for long term population growth. 
 <figure>
-   <img src="{{ '/assets/img/endo-in-leaf.JPG' | prepend: site.baseurl }}" alt="Microscope image of endophyte hyphea stained in between leaf cells"> 
-   <figcaption> Microscope image of endophyte hyphea stained in between leaf cells </figcaption>
+   <img src="{{ '/assets/img/endo-in-leaf.JPG' | prepend: site.baseurl }}" alt="Microscope image of endophyte hyphae stained in between leaf cells"> 
+   <figcaption> Microscope image of endophyte hyphae stained in between leaf cells </figcaption>
 </figure>
 
 Fungal endophytes are widespread symbionts of grasses that have been shown to provide a variety of context dependent benefits under environmental stress such as drought or salinity tolerance. These fungal endophytes are vertically transmitted through the seeds of their plant hosts. Context-dependence may make interactions seem unpredictable, but it provides a distinct mechanism by which symbionts may act as mutualists beyond influencing mean population growth rates. 
@@ -31,7 +31,7 @@ From these vital rate estimates, we build stochastic Integral Projection models 
 
 While increasing mean temperature and precipitation are common predictions of climate change, increases in environmental variability are also expected. I'm particularly interested in extending this project by forecasting the consequences that expected increased variability in the future may have for variance buffering, as well as investigating the causes behind the differences that we observe between species. Certain host life histories may benefit more from variance buffering than others, and there may be tradeoffs between a strong mean endophyte effect and variance buffering.</p>
 
-Please see selected references for ESA 2020 below:
+Please see selected references for my postere at ESA 2020 below:
 
 1. Lewontin, R C, and D Cohen. “ON POPULATION GROWTH IN A RANDOMLY VARYING ENVIRONMENT,” 1969. https://www.pnas.org/content/pnas/62/4/1056.full.pdf.
 2. Boyce, Mark S., Chirakkal V. Haridas, Charlotte T. Lee, and the NCEAS Stochastic Demography Working Group. “Demography in an Increasingly Variable World.” Trends in Ecology & Evolution 21, no. 3 (March 2006): 141–148. https://doi.org/10.1016/J.TREE.2005.11.018.
