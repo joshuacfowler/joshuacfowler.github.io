@@ -7,7 +7,7 @@ description:
 
 <p class="intro"><span class="dropcap">I</span>ncreased climatic variability is a critical expectation of climate change. Mutualisms often provide context-dependent benefits to hosts that are beneficial under abiotic stress while being neutral or even slightly costly in non-stressful conditions. This context-dependence has the potential to reduce the extremely good and the extremely bad years that the host experiences. Symbiotic mutualists may benefit their hosts by buffering demographic variability, even if their effects are neutral on average across years because environmental variability is generally bad for long term population growth. 
 <figure>
-   <img src="{{ '/assets/img/endo_in_leaf.JPG' | prepend: site.baseurl }}" alt="Microscope image of endophyte hyphea stained in between leaf cells"> 
+   <img src="{{ '/assets/img/endo-in-leaf.JPG' | prepend: site.baseurl }}" alt="Microscope image of endophyte hyphea stained in between leaf cells"> 
    <figcaption> Microscope image of endophyte hyphea stained in between leaf cells </figcaption>
 </figure>
 
