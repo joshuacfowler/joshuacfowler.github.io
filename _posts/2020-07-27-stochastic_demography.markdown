@@ -29,7 +29,7 @@ Endophytes tend to have small effects on mean vitals and do reduce variance acro
 </figure>
 
   
-From these vital rate estimates, we build stochastic Integral Projection models to make population projections which allow us to assess the contributions of endophyte partnership on both the mean and variance components of host fitness.
+From these vital rate estimates, we build stochastic matrix population models to make population projections which allow us to assess the contributions of endophyte partnership on both the mean and variance components of host fitness.
 
 <figure>
    <img src="{{ '/assets/img/byspp_stochplot.png' | prepend: site.baseurl }}" alt="Species specific contributions of endophytes to stochastic lambda through mean and through variance buffering"> 
