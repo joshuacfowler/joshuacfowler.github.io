@@ -5,6 +5,9 @@ title: Publications
 
 
 # Publications
+
+## 2022
+* <a href="/assets/pubs/Ecological Monographs - 2022 - Fowler - The geographic footprint of mutualism How mutualists influence species range.pdf"> <b>Fowler, J. C.</b>, Donald, M. L., Bronstein, J. L., Miller, T. E.X. (2022). The geographic footprint of mutualism: How mutualists influence species' range limits. Ecological Monographs, ecm.1558. </a>
 	
 ## 2021
 * <a href="/assets/pubs/TingfaDongEEB2021.pdf"> Dong, T., Zhang, R., Liu, J., <b>Fowler, J. C.</b>, Miller, T. E.X., & Xu, X. (2021). Warming alters sex-specific responses in leaf defense against insect herbivory in Populus cathayana. Environmental and Experimental Botany, 104557. </a> 
