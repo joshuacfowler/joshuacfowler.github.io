@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Using Herbarium Specimens to Explore Environmental Drivers of Plant-Fungal Symbiosis"
-date:   
+date:   2023-05-08
 ---
 
 <p class="intro"><span class="dropcap">F</span>ungal endophytes are commonly thought to confer protection to their grass hosts against environmental stress. Many contemporary surveys have documented spatial patterns in the prevalence of the symbiosis, and we expect the symbiosis should be most common where it provides the greatest benefit to hosts, suggesting that environmental factors may determine the distribution. At the same time, environmental conditions global climate change and human disturbance have been shifting the spatial template of stress that plants face.
