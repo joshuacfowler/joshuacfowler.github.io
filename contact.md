@@ -7,10 +7,10 @@ title: Contact
   <h1 class="pageTitle">Contact Me</h1>
   <div class="post">
     
-   <center class="intro">Office: Anderson Biological Lab 216 </center>
-   <center class="intro"><a href="mailto:jcf3@rice.edu">jcf3@rice.edu</a></center>
-   <center><a href="https://millerlabrice.github.io/">Miller Lab</a> | BioSciences</center>
-   <center>Rice University | Houston, Texas</center>
+   <center class="intro">Office: Cox Science Building 248 </center>
+   <center class="intro"><a href="mailto:jcf221@miami.edu">jcf221@miami.edu</a></center>
+   <center><a href="https://michelleafkhami.wordpress.com/">Afkhami Lab</a> and <a href="https://casearcy.wordpress.com/">Searcy Lab</a>| Department of Biology</center>
+   <center>University of Miami | Miami, Florida</center>
 
   </div>
 </div>
