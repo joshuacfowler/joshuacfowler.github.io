@@ -6,6 +6,10 @@ title: Publications
 
 # Publications
 
+## 2024
+
+* <a href="/assets/pubs/Ecology Letters-2024- Fowler - Microbial symbionts buffer hosts from the demographic costs of environmental.pdf"> <b>Fowler, J. C.</b>, Ziegler, S., Whitney, K. D., Rudgers, J. A., Miller, T. E.X. (2024). Microbial symbionts buffer hosts from the demographic costs of environmental stochasticity. Ecology Letters, 27 (5) e14438. </a>
+
 ## 2022
 * <a href="/assets/pubs/Ecological Monographs - 2022 - Fowler - The geographic footprint of mutualism How mutualists influence species range.pdf"> <b>Fowler, J. C.</b>, Donald, M. L., Bronstein, J. L., Miller, T. E.X. (2022). The geographic footprint of mutualism: How mutualists influence species' range limits. Ecological Monographs, ecm.1558. </a>
 	
