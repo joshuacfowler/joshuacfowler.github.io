@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Effect of microbial communities on metapopulation dynamics"
-date:   2023-16-01
+date:   2023-01-16
 ---
 
 <p class="intro"><span class="dropcap">O</span>rganisms interact with complex communities of microbes that impact growth and performance. 
