@@ -17,11 +17,8 @@ By using demographic field experiments, we can assess the mechanisms by which th
  
 
 Check out a profile of our research!
-  
-  <figure>
-   <img src="{{ '[https://i3.ytimg.com/vi/dYuayCB6scE/maxresdefault.jpg](http://i3.ytimg.com/vi/dYuayCB6scE/hqdefault.jpg)' }}" alt="Profile of our Texas Epichloe host grass range limits experiment"> 
-   <figcaption> Profile of our Texas Epichloe host grass range limits experiment </figcaption>
-</figure>
+
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/dYuayCB6scE?si=IRmy_NVfz5ekR3ZY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 </p>
 
