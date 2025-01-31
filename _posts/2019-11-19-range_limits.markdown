@@ -15,11 +15,12 @@ See a review of these mechanisms published in Ecological Monographs <a href="htt
   
 By using demographic field experiments, we can assess the mechanisms by which the mutualism contributes or does not contribute to the range limit. I have established a seedling transplant experiment with endophyte-infected grasses to quantify the contribution of mutualisms to population growth across range limits for three common, Eastern U.S. grasses.
  
- Check out a profile of our research!
+
+Check out a profile of our research!
   
   <figure>
-   <img src="{{ 'https://i3.ytimg.com/vi/dYuayCB6scE/maxresdefault.jpg' }}" alt="Rice University research profile on Texas Epichloe host grass range limits experiment"> 
-   <figcaption>  </figcaption>
+   <img src="{{ '[https://i3.ytimg.com/vi/dYuayCB6scE/maxresdefault.jpg](http://i3.ytimg.com/vi/dYuayCB6scE/hqdefault.jpg)' }}" alt="Profile of our Texas Epichloe host grass range limits experiment"> 
+   <figcaption> Profile of our Texas Epichloe host grass range limits experiment </figcaption>
 </figure>
 
 </p>
