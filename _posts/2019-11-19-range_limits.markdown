@@ -13,12 +13,11 @@ See a review of these mechanisms published in Ecological Monographs <a href="htt
    <figcaption> Seedlings grown in the greenhouse for transplanting across the range </figcaption>
 </figure>
   
-By using demographic field experiments, we can assess the mechanisms by which the mutualism contributes or does not contribute to the range limit. I have established a seedling transplant experiment with endophyte-infected grasses to quantify the contribution of mutualisms to population growth across range limits for three common, Eastern U.S. grasses.
+By using demographic field experiments, we can assess the mechanisms by which the mutualism contributes or does not contribute to the range limit. I have established a seedling transplant experiment with endophyte-infected grasses to quantify the contribution of mutualisms to population growth across range limits for three common, Eastern U.S. grasses.</p>
  
 
 Check out a profile of our research!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dYuayCB6scE?si=IRmy_NVfz5ekR3ZY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-</p>
 
