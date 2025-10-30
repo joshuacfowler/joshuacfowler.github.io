@@ -7,7 +7,8 @@ title: Publications
 # Publications
 
 ## 2025
-* <a href="/assets/pubs/Ecology Letters-2024- Fowler - Microbial symbionts buffer hosts from the demographic costs of environmental.pdf"> <b>Fowler, J. C.</b>, Moutouama, J.K., S., Miller, T. E.X. (2025). Increasing prevalence of plant-fungal symbiosis across two centuries of environmental change. *Global Change Biology*, 31:e70577 </a>
+
+* <a href="/assets/pubs/Global Change Biology - 2025 - Fowler - Increasing Prevalence of Plant‐Fungal Symbiosis Across Two Centuries of.pdf"> <b>Fowler, J. C.</b>, Moutouama, J.K., S., Miller, T. E.X. (2025). Increasing prevalence of plant-fungal symbiosis across two centuries of environmental change. *Global Change Biology*, 31:e70577 </a>
 
 
 ## 2024
