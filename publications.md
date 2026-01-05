@@ -6,7 +6,13 @@ title: Publications
 
 # Publications
 
+## 2026
+* <a href="/assets/pubs/Li_et_al_NatEcoEvo_2026.pdf"> Li, V. W.,  <b>Fowler, J. C.</b>, David, A. S., Strauss, S. Y., Searcy, C. A., Afkhami, M. E. (2026). Climate variability disrupts microbial mutualism-driven population persistence. *Nature Ecol. & Evol*. https://doi.org/10.1038/s41559-025-02943-w.
+
+
 ## 2025
+
+* <a href="/assets/pubs/Ecology Letters - 2025 - Williams - Linking Climate and Demography to Predict Population Dynamics and Persistence Under.pdf"> Williams. J. L., Angert, A. L., Compagnoni, A., Campbell, A., DeMarche, M. L., Evans, M. E. K.,  <b>Fowler, J. C.</b>, Gonz\'alez, E. J., Iler A. M., Loesberg, J. A., Louthan, A. M., Martin, A. B., Moutouama, J. K., Nordstrom, S. W., Petry, W. K., Sen, B., Sheth, S. N., Miller. T. E. X. (2025). Linking climate and demography to predict population dynamics and persistence under global change. *Ecology Letters* 28, e70283.</a>
 
 * <a href="/assets/pubs/Global Change Biology - 2025 - Fowler - Increasing Prevalence of Plant‐Fungal Symbiosis Across Two Centuries of.pdf"> <b>Fowler, J. C.</b>, Moutouama, J.K., S., Miller, T. E.X. (2025). Increasing prevalence of plant-fungal symbiosis across two centuries of environmental change. *Global Change Biology*, 31:e70577 </a>
 
