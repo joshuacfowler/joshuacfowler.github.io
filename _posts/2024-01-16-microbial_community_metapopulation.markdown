@@ -10,3 +10,5 @@ Many species occur as smaller populations connected by dispersal across discrete
 Integrating long-term demographic monitoring data from Archbold Biological Station in central Florida with experimental manipulations of soil microbial communities, I am scaling up the effects of soil microbes and variation in microbial communities to their impact on population growth and metapopulation viability of several species of plants endemic to the Florida Scrub, a valuable and endangered habitat threatened by urban development.
 In addition to building understanding about the ubiquitous microbial reality in which most organisms live, a key goal of this research incorporating complex biotic interactions into population models is to improve forecasts and inform management and conservation. 
 </p>
+
+<p> Check this feature from the University of Miami on our <a href="https://news.miami.edu/as/stories/2024/04/biology-researchers-seek-to-protect-endangered-plants.html"> research </a>. </p>
